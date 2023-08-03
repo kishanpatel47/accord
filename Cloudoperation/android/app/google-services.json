@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "52219012825",
+    "project_id": "cloudoperation-278f5",
+    "storage_bucket": "cloudoperation-278f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52219012825:android:fa2729cb6743c6779940c8",
+        "android_client_info": {
+          "package_name": "com.cloudoperation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52219012825-1ui2vut3jjlu7btc00sulaqa7a0hm02j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudoperation",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "52219012825-51bk3v0mehlghfrv9i8nf2iaj4067ae5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaGi0g_xCqdm5GLbbN2Qu3MRClZHWDKeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52219012825-51bk3v0mehlghfrv9i8nf2iaj4067ae5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+
+    // "@react-navigation/native-stack": "^6.7.0",
+
+https://reactnativecode.com/navigation-drawer-with-section-menu/
+https://aboutreact.com/navigation-drawer-sidebar-menu-with-sectioned-menu-options-footer/
